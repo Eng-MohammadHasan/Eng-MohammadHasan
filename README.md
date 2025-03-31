@@ -38,7 +38,7 @@
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Achievements 🏆
+### Expertise & Mastery 🏆
 - +1000 Solved Problem Solving Questions on various websites ...
 - Speed Typing ( 150 WPM) 
 - Functional , Procedural Programming , Object Oriented Programming ...
