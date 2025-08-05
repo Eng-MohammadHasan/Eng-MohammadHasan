@@ -35,6 +35,13 @@
 - Functional , Procedural Programming , Object Oriented Programming ...
 - Clean Code , Readable , Reusable , fascinating logic ...
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Eng_Mohammad_Hasan)](https://codeforces.com/profile/Eng_Mohammad_Hasan)  
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Eng_Mohammad_Hasan)
+### 🧠 Competitive Programming
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Eng_Mohammad_Hasan" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Eng_Mohammad_Hasan&theme=default&border=true&title_color=black&width=300" width="360" alt="Codeforces Stats" />
+  </a>
+  <br />
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Eng_Mohammad_Hasan" alt="Codeforces Badge" width="150" />
+</p>
 
