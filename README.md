@@ -35,7 +35,6 @@
 - Functional , Procedural Programming , Object Oriented Programming ...
 - Clean Code , Readable , Reusable , fascinating logic ...
 
-### 🧠 Competitive Programming
 
 ### 🧠 Competitive Programming
 
