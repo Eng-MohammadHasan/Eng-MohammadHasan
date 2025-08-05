@@ -37,11 +37,14 @@
 
 ### 🧠 Competitive Programming
 
+### 🧠 Competitive Programming
+
 <p align="center">
   <a href="https://codeforces.com/profile/Eng_Mohammad_Hasan" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Eng_Mohammad_Hasan&theme=default&border=true&title_color=black&width=300" width="360" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Eng_Mohammad_Hasan" alt="Codeforces Stats" width="300"/>
   </a>
   <br />
-  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Eng_Mohammad_Hasan" alt="Codeforces Badge" width="150" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Eng_Mohammad_Hasan" alt="Codeforces Badge" width="120"/>
 </p>
+
 
