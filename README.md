@@ -40,6 +40,8 @@
 
 ### 🧠 Competitive Programming
 
+### 📈 My CodeforcesStats
+
 <p align="center">
   <a href="https://codeforces.com/profile/Eng_Mohammad_Hasan" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Eng_Mohammad_Hasan" alt="Codeforces Stats" width="300"/>
@@ -48,4 +50,16 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Eng_Mohammad_Hasan" alt="Codeforces Badge" width="120"/>
 </p>
 
+---
+
+### 📈 My LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/eng_mohammadhasan/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/eng_mohammadhasan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+
+---
 
