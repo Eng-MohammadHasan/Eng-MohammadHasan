@@ -10,11 +10,14 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
-### Connect with Me :
+### Connect with Me:
 
-<a href="https://www.linkedin.com/in/mohammad-hasan-abdelqader-7a833b32a/" target="_blank"><img src="https://img.shields.io/badge/-Mohammad%20Hasan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Mohammad_Hasan01" target="_blank"><img src="https://img.shields.io/badge/-Mohammad%20Hasan-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
+<a href="https://www.linkedin.com/in/mohammad-hasan-abdelqader-7a833b32a/" target="_blank">
+  <img src="https://img.shields.io/badge/-MohammadHasan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://t.me/Mohammad_Hasan01" target="_blank">
+  <img src="https://img.shields.io/badge/-Mohammad%20Hasan-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
+</a>
 
 # 💻 Tech Stack:
 ## programming languages:
