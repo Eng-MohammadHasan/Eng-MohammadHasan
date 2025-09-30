@@ -40,10 +40,10 @@
 
 ### 🧠 Competitive Programming
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 50px;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 50px; flex-wrap: nowrap;">
 
   <!-- Left: Codeforces -->
-  <div style="text-align: center; width: 320px;">
+  <div style="text-align: center; width: 320px; flex-shrink: 0;">
     <h4>Codeforces</h4>
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Eng_Mohammad_Hasan" alt="Codeforces Stats" width="300"/>
     <br />
@@ -51,7 +51,7 @@
   </div>
 
   <!-- Right: LeetCode -->
-  <div style="text-align: center; width: 320px;">
+  <div style="text-align: center; width: 320px; flex-shrink: 0;">
     <h4>LeetCode</h4>
     <img src="https://leetcard.jacoblin.cool/eng_mohammadhasan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" width="300"/>
   </div>
