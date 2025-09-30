@@ -37,10 +37,12 @@
 - Functional , Procedural Programming , Object Oriented Programming ...
 - Clean Code , Readable , Reusable , fascinating logic ...
 
+
 ### 🧠 Competitive Programming
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 50px;">
 
+  <!-- Left: Codeforces -->
   <div style="text-align: center; width: 320px;">
     <h4>Codeforces</h4>
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Eng_Mohammad_Hasan" alt="Codeforces Stats" width="300"/>
@@ -48,14 +50,13 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Eng_Mohammad_Hasan" alt="Codeforces Badge" width="120"/>
   </div>
 
+  <!-- Right: LeetCode -->
   <div style="text-align: center; width: 320px;">
     <h4>LeetCode</h4>
     <img src="https://leetcard.jacoblin.cool/eng_mohammadhasan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" width="300"/>
   </div>
 
 </div>
-
-
 
 
 
