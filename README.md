@@ -40,20 +40,13 @@
 ### 🧠 Competitive Programming
 
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 50px; flex-wrap: nowrap;">
+<p align="center">
 
-  <!-- Left: Codeforces -->
-  <div style="text-align: center; width: 320px; flex-shrink: 0;">
-    <h4>Codeforces</h4>
-    <img src="https://cf.leed.at?id=Eng_Mohammad_Hasan" alt="Codeforces Stats" width="300"/>
-  </div>
+<img src="https://img.shields.io/badge/Codeforces-Eng_Mohammad_Hasan-blue?style=for-the-badge&logo=codeforces" />
 
-  <!-- Right: LeetCode -->
-  <div style="text-align: center; width: 320px; flex-shrink: 0;">
-    <h4>LeetCode</h4>
-    <img src="https://leetcard.jacoblin.cool/eng_mohammadhasan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" width="300"/>
-  </div>
+<br><br>
 
-</div>
+<img src="https://leetcard.jacoblin.cool/eng_mohammadhasan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" width="350"/>
 
+</p>
 
