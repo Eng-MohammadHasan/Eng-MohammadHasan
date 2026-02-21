@@ -46,8 +46,6 @@
   <div style="text-align: center; width: 320px; flex-shrink: 0;">
     <h4>Codeforces</h4>
     <img src="https://cf.leed.at?id=Eng_Mohammad_Hasan" alt="Codeforces Stats" width="300"/>
-    <br />
-    <img src="https://cf.leed.at/rating?id=Eng_Mohammad_Hasan" alt="Codeforces Rating Graph" width="300"/>
   </div>
 
   <!-- Right: LeetCode -->
