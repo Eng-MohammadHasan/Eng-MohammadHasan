@@ -39,14 +39,15 @@
 
 ### 🧠 Competitive Programming
 
+
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 50px; flex-wrap: nowrap;">
 
   <!-- Left: Codeforces -->
   <div style="text-align: center; width: 320px; flex-shrink: 0;">
     <h4>Codeforces</h4>
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Eng_Mohammad_Hasan" alt="Codeforces Stats" width="300"/>
+    <img src="https://cf.leed.at?id=Eng_Mohammad_Hasan" alt="Codeforces Stats" width="300"/>
     <br />
-    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Eng_Mohammad_Hasan" alt="Codeforces Badge" width="120"/>
+    <img src="https://cf.leed.at/rating?id=Eng_Mohammad_Hasan" alt="Codeforces Rating Graph" width="300"/>
   </div>
 
   <!-- Right: LeetCode -->
@@ -56,6 +57,5 @@
   </div>
 
 </div>
-
 
 
