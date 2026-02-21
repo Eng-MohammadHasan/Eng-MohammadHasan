@@ -41,20 +41,4 @@
 
 | Codeforces | LeetCode |
 |-----------|----------|
-| 
-<p align="center">
-
-[![Codeforces](https://img.shields.io/badge/View-Codeforces_Profile-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Eng_Mohammad_Hasan)
-
-<br>
-
-**Newbie • Max rating 350**
-
-</p>
-
-| 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/eng_mohammadhasan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" width="350"/>
-</p>
-
-|
+| [![Codeforces](https://img.shields.io/badge/View-Codeforces_Profile-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Eng_Mohammad_Hasan)<br><br>Newbie • Max rating 350 | <img src="https://leetcard.jacoblin.cool/eng_mohammadhasan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" width="350"/> |
