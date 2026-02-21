@@ -39,14 +39,7 @@
 
 ### 🧠 Competitive Programming
 
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Codeforces-Eng_Mohammad_Hasan-blue?style=for-the-badge&logo=codeforces" />
-
-<br><br>
-
-<img src="https://leetcard.jacoblin.cool/eng_mohammadhasan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" width="350"/>
-
-</p>
+| Codeforces | LeetCode |
+|-----------|----------|
+| <img src="https://cf.leed.at?id=Eng_Mohammad_Hasan" width="350"/> | <img src="https://leetcard.jacoblin.cool/eng_mohammadhasan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" width="350"/> |
 
