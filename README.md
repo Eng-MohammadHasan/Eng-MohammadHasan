@@ -41,5 +41,4 @@
 
 | Codeforces | LeetCode |
 |-----------|----------|
-| <img src="https://cf.leed.at?id=Eng_Mohammad_Hasan" width="350"/> | <img src="https://leetcard.jacoblin.cool/eng_mohammadhasan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" width="350"/> |
-
+| [![Codeforces](https://img.shields.io/badge/View-Codeforces_Profile-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Eng_Mohammad_Hasan) | <img src="https://leetcard.jacoblin.cool/eng_mohammadhasan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" width="350"/> |
