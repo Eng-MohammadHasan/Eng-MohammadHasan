@@ -37,8 +37,6 @@
 - Clean Code , Readable , Reusable , fascinating logic ...
 
 
-### 🧠 Competitive Programming
+[![Codeforces](https://img.shields.io/badge/View-Codeforces_Profile-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Eng_Mohammad_Hasan)
 
-| Codeforces | LeetCode |
-|-----------|----------|
-| [![Codeforces](https://img.shields.io/badge/View-Codeforces_Profile-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Eng_Mohammad_Hasan) | <img src="https://leetcard.jacoblin.cool/eng_mohammadhasan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" width="350"/> |
+Newbie • Max rating 350
