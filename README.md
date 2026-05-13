@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 ### Expertise & Mastery 🏆
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=YOUReng_mohammadhasan&theme=dark)
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=eng_mohammadhasan&theme=dark)
 
 - +1000 Solved Problem Solving Questions on various websites ...
 - Speed Typing ( 160 WPM) 
