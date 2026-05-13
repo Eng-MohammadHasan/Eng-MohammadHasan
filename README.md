@@ -31,6 +31,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 ### Expertise & Mastery 🏆
+![LeetCode Badges](https://vercel.app{your-leetcode-Mohammad_Hasan})
+
 - +1000 Solved Problem Solving Questions on various websites ...
 - Speed Typing ( 160 WPM) 
 - Functional , Procedural Programming , Object Oriented Programming ...
