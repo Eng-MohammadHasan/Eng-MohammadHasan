@@ -53,7 +53,7 @@
 ---
 
 - Solved 1000+ problem-solving questions across various platforms.
-- Fast typing speed (~160 WPM).
+- Fast typing speed (~170 WPM).
 - Functional, procedural, and object-oriented programming.
 - Clean, readable, reusable, and maintainable code.
 - Strong problem-solving and logical thinking skills.
